@@ -1,0 +1,18 @@
+
+  EPA STORM WATER MANAGEMENT MODEL - VERSION 5.1 (Build 5.1.013)
+  --------------------------------------------------------------
+
+  
+  *********************
+  Rainfall File Summary
+  *********************
+  Station    First        Last         Recording   Periods    Periods    Periods
+  ID         Date         Date         Frequency  w/Precip    Missing    Malfunc.
+  -------------------------------------------------------------------------------
+
+  
+  ERROR 317: cannot open rainfall data file precipn.dat.
+
+  Analysis begun on:  Mon Jan 13 09:54:30 2020
+  Analysis ended on:  Mon Jan 13 09:54:30 2020
+  Total elapsed time: < 1 sec
